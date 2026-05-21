@@ -1,1 +1,3 @@
-# face-id-unet-segmentation
+tensorflow>=2.13.0
+numpy>=1.24.0
+matplotlib>=3.7.0
